@@ -12,6 +12,8 @@ MONTOR  : NEELA SANTOSH
 
 DISCRIPTION OF TASK HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE CODES OF OUTPUT
 
+OUTPUT..
+
 import csv
 import logging
 from selenium import webdriver
